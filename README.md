@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=2000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=635&lines=Hello!+Welcome+to+my+GitHub+page+I'M+Yesen.)](https://git.io/typing-svg)  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=2000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=635&lines=Hello!+Welcome+to+my+GitHub+page+I'm+Yesen :)" alt="Typing SVG" />
+  </a>
+</div>
+
 
 ## 💫 About Me:
 🔭 I’m currently working on Taxi Web Application using ASP.Net<br>👯 I’m looking to collaborate on Posibbly Any Python Project<br>🌱 I’m currently learning Flutter, React, NodeJs, Laravel<br>💬 Ask me about Laravel, Python, Bootstrap, WordPress, MySql, MsSql, ASP.Net, C#<br>📫 How to reach me ykandalama@gmail.com<br>👨‍💻 All of my projects are available at https://github.com/yesenvidnath<br>⚡ Fun fact  I Really Enjoy 80's Rock && POP Music 🧑🏼‍🎤🤘🏼
